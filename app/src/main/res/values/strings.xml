@@ -2,4 +2,7 @@
     <string name="app_name">My Application</string>
     <string name="service_start">Service</string>
     <string name="service_stop">STOP</string>
+    <string name="notification_title">title</string>
+    <string name="notification_message">not_messsage</string>
+    <string name="send_notification">send</string>
 </resources>
